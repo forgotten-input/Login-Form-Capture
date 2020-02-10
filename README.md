@@ -6,15 +6,19 @@ To get this working, Start up a web server to host the page on. Ensure that the 
 
 1) Ensure your web server is up and running.
 
-
+![](Webserver%20Runninf.png)
 
 2) Ensure the index.php script loads as deafult.
 
-
+![](Page%20Loads.png)
 
 3) Ensure that the Authentication.txt file is sitting in the same directory.
 
-
+![](directory%20listing.png)
 
 
 4) Test and verify that the script works. 
+
+![](Running.png)
+
+![](Captured.png)
